@@ -1,5 +1,5 @@
 # Song_Record_System
-I developed a Java Console application that applies Binary Search Tree algorithm.
+I developed a basic Java Console application that applies Binary Search Tree algorithm.
 
 --> In this project, I created a record system that allows the insertion, search, and deletion of musical records. The initial musical records are read from a text file (songs.txt) where each line holds one song information as follows; <br /> 
 Song name;Artist;ID;Genre;Year <br />
