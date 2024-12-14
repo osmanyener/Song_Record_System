@@ -7,7 +7,8 @@ Song name;Artist;ID;Genre;Year <br />
 --> You can see some screenshots of the project below. <br />
 
 --> example run <br />
-![image](https://github.com/user-attachments/assets/65213640-e852-4a4b-b7ee-0dcb53f12cf8)
-![image](https://github.com/user-attachments/assets/ebbd6d80-b243-4672-bd07-67e231ee4e7f)
+![image](https://github.com/user-attachments/assets/53232f01-ed6b-4151-b14d-4d19b302ef70)
+![image](https://github.com/user-attachments/assets/2349a4fd-b8c2-4aa5-ba4d-49d4f6b56909)
+
 
 
