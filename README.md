@@ -2,9 +2,9 @@
 I developed a Java Console application that applies Binary Search Tree algorithm.
 
 --> In this project, I created a record system that allows the insertion, search, and deletion of musical records. The initial musical records are read from a text file (songs.txt) where each line holds one song information as follows; <br /> 
-Song name;Artist;ID;Genre;Year
---> You can find the related txt file (songs.txt) in the project file.
---> You can see some screenshots of the project below.
+Song name;Artist;ID;Genre;Year <br />
+--> You can find the related txt file (songs.txt) in the project file. <br />
+--> You can see some screenshots of the project below. <br />
 
 --> example run <br />
 ![image](https://github.com/user-attachments/assets/65213640-e852-4a4b-b7ee-0dcb53f12cf8)
