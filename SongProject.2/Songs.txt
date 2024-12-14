@@ -1,0 +1,5 @@
+Holocaust;Ceza;1001;Rap;2004
+Geceler;Ezel;1003;Rap;2017
+Imdat;Hadise;1005;Pop;2022
+Gidemem;Kibariye;1007;Arabesk;2008
+Yağmurlar;Alişan;1009;Türkü;2019
